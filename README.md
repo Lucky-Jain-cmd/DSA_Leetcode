@@ -7,6 +7,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0053-maximum-subarray) |
+| [0128-longest-consecutive-sequence](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0189-rotate-array) |
@@ -23,6 +24,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -70,4 +72,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
