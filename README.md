@@ -17,6 +17,7 @@
 | [0189-rotate-array](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -33,6 +34,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -47,6 +49,7 @@
 | [0088-merge-sorted-array](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
