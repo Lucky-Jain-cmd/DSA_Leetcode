@@ -55,11 +55,13 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0204-count-primes) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0136-single-number) |
 ## Divide and Conquer
 |  |
@@ -100,4 +102,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0204-count-primes) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
