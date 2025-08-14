@@ -22,6 +22,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0816-design-hashset](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0816-design-hashset) |
 | [3226-minimum-number-game](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/3226-minimum-number-game) |
 ## Two Pointers
 |  |
@@ -39,6 +40,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0816-design-hashset](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0816-design-hashset) |
 ## Binary Search
 |  |
 | ------- |
@@ -121,4 +123,16 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Linked List
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0816-design-hashset) |
+## Design
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0816-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
