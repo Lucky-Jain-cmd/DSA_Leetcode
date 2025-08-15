@@ -65,11 +65,13 @@
 | [0069-sqrtx](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0204-count-primes) |
+| [0342-power-of-four](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0136-single-number) |
+| [0342-power-of-four](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -135,4 +137,8 @@
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0816-design-hashset) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
