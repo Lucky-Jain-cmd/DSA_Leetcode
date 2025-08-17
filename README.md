@@ -66,6 +66,7 @@
 | [0189-rotate-array](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0342-power-of-four) |
 | [1448-maximum-69-number](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/1448-maximum-69-number) |
 ## Bit Manipulation
@@ -144,6 +145,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0342-power-of-four) |
 ## Greedy
 |  |
