@@ -22,6 +22,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0679-24-game](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0679-24-game) |
 | [0816-design-hashset](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0816-design-hashset) |
 | [3226-minimum-number-game](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/3226-minimum-number-game) |
 ## Two Pointers
@@ -68,6 +69,7 @@
 | [0231-power-of-two](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/1448-maximum-69-number) |
 ## Bit Manipulation
@@ -161,4 +163,8 @@
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0867-new-21-game) |
+## Backtracking
+|  |
+| ------- |
+| [0679-24-game](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0679-24-game) |
 <!---LeetCode Topics End-->
