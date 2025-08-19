@@ -69,6 +69,7 @@
 | [0231-power-of-two](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0412-fizz-buzz) |
 | [0679-24-game](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/1448-maximum-69-number) |
@@ -124,10 +125,12 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0412-fizz-buzz) |
 | [3226-minimum-number-game](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/3226-minimum-number-game) |
 ## Interactive
 |  |
