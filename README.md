@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -53,6 +55,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
