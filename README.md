@@ -73,6 +73,7 @@
 | [0189-rotate-array](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0412-fizz-buzz) |
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0258-add-digits) |
 ## String
 |  |
 | ------- |
@@ -138,6 +140,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0412-fizz-buzz) |
 | [3226-minimum-number-game](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/3226-minimum-number-game) |
 ## Interactive
