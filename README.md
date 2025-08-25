@@ -53,6 +53,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Sorting
@@ -88,6 +89,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0342-power-of-four) |
 ## Divide and Conquer
@@ -198,6 +200,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -210,4 +213,5 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
