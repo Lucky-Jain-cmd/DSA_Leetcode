@@ -29,6 +29,7 @@
 | [0816-design-hashset](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0816-design-hashset) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3226-minimum-number-game](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/3226-minimum-number-game) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Two Pointers
 |  |
