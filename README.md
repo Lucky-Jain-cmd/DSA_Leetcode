@@ -7,6 +7,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0075-sort-colors) |
@@ -44,6 +45,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0217-contains-duplicate) |
@@ -193,6 +195,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0036-valid-sudoku) |
 | [0498-diagonal-traverse](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0498-diagonal-traverse) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
