@@ -91,6 +91,7 @@
 | [0679-24-game](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/1448-maximum-69-number) |
+| [2083-three-divisors](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/2083-three-divisors) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Bit Manipulation
@@ -138,11 +139,13 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0204-count-primes) |
+| [2083-three-divisors](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/2083-three-divisors) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0258-add-digits) |
+| [2083-three-divisors](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/2083-three-divisors) |
 ## String
 |  |
 | ------- |
