@@ -77,6 +77,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0069-sqrtx) |
@@ -166,6 +167,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0002-add-two-numbers) |
 | [0816-design-hashset](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0816-design-hashset) |
 ## Design
 |  |
@@ -178,6 +180,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0342-power-of-four) |
