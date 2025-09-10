@@ -94,6 +94,7 @@
 | [1448-maximum-69-number](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/1448-maximum-69-number) |
 | [2083-three-divisors](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/2083-three-divisors) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Bit Manipulation
 |  |
