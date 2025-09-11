@@ -37,6 +37,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0075-sort-colors) |
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0816-design-hashset](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0816-design-hashset) |
 ## Design
