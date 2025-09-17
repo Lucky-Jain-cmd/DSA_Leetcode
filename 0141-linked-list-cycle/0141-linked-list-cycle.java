@@ -14,10 +14,10 @@ public class Solution {
         HashSet<ListNode> hs = new HashSet<>();
         ListNode temp = head;
         while(temp!=null){
-            if(hs.contains(temp.next)){
+            if(hs.contains(temp)){
                 return true;
             }
-            hs.add(temp.next);
+            hs.add(temp);
             temp = temp.next;
         }
         return false;
