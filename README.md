@@ -185,6 +185,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0203-remove-linked-list-elements](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0816-design-hashset](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0816-design-hashset) |
@@ -200,6 +201,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0326-power-of-three) |
