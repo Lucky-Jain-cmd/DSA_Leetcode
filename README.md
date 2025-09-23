@@ -87,6 +87,7 @@
 | [0066-plus-one](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0231-power-of-two) |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0867-new-21-game](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0867-new-21-game) |
 ## Heap (Priority Queue)
@@ -259,4 +261,8 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
