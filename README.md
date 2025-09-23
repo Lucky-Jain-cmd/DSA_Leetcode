@@ -29,6 +29,7 @@
 | [0498-diagonal-traverse](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0679-24-game](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0679-24-game) |
+| [0747-min-cost-climbing-stairs](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0816-design-hashset](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0816-design-hashset) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3226-minimum-number-game](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/3226-minimum-number-game) |
@@ -129,6 +130,7 @@
 | [0070-climbing-stairs](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0198-house-robber) |
+| [0747-min-cost-climbing-stairs](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0867-new-21-game](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0867-new-21-game) |
 ## Heap (Priority Queue)
 |  |
