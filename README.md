@@ -26,6 +26,7 @@
 | [0217-contains-duplicate](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -83,6 +84,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [3226-minimum-number-game](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/3226-minimum-number-game) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
@@ -213,6 +215,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1448-maximum-69-number](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/1448-maximum-69-number) |
 ## Sliding Window
 |  |
