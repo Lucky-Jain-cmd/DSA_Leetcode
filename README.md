@@ -24,6 +24,7 @@
 | [0204-count-primes](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -141,6 +142,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0239-sliding-window-maximum) |
 | [3226-minimum-number-game](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/3226-minimum-number-game) |
 ## Quickselect
 |  |
@@ -220,6 +222,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0867-new-21-game](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0867-new-21-game) |
 ## Probability and Statistics
 |  |
@@ -279,4 +282,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0070-climbing-stairs) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
