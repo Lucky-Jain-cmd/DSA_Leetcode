@@ -31,6 +31,7 @@
 | [0485-max-consecutive-ones](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0679-24-game) |
 | [0747-min-cost-climbing-stairs](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0816-design-hashset](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0816-design-hashset) |
@@ -86,6 +87,7 @@
 | [0217-contains-duplicate](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3226-minimum-number-game](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/3226-minimum-number-game) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
@@ -104,6 +106,7 @@
 | [0342-power-of-four](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/1448-maximum-69-number) |
