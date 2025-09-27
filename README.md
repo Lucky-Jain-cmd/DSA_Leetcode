@@ -78,6 +78,7 @@
 | [0162-find-peak-element](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Sorting
 |  |
@@ -106,6 +107,7 @@
 | [0258-add-digits](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
