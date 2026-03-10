@@ -68,6 +68,7 @@
 | [0217-contains-duplicate](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0816-design-hashset) |
@@ -140,6 +141,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,6 +186,7 @@
 | [0014-longest-common-prefix](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0067-add-binary](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
 | Problem Name | Difficulty |
@@ -299,6 +302,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Lucky-Jain-cmd/DSA_Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
